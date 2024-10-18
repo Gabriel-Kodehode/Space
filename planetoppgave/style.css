@@ -1,0 +1,96 @@
+* {
+  margin: 0%;
+}
+
+body {
+  background-image: url(image/space2.jpg);
+  background-size: 100%;
+}
+
+h1 {
+  color: #6b6496;
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  color: #c7bdff;
+  display: flex;
+  justify-content: center;
+}
+
+#info {
+  font-size: larger;
+  color: #c7bdff;
+}
+
+#des {
+  color: #c7bdff;
+  font-size: medium;
+  overflow: auto;
+  float: left;
+}
+
+#allp {
+  display: flex;
+  border-radius: 10%;
+  background-color: #1c0f66;
+  opacity: 0.8;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 90vh;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+#🤢 {
+  border-color: #301f8f;
+  border-style: solid;
+  height: 50%;
+}
+
+#🎇 {
+  border-color: #301f8f;
+  border-style: solid;
+  height: 50%;
+  overflow: auto;
+}
+
+#⚾ {
+  border-color: #301f8f;
+  border-style: solid;
+  height: 50%;
+  overflow: auto;
+}
+
+#🤡 {
+  border-color: #301f8f;
+  border-style: solid;
+  height: 50%;
+  overflow: auto;
+}
+
+#🌑 {
+  border-radius: 50%;
+  width: 30%;
+  float: left;
+  outline-style: solid;
+  outline-color: #1c0f66;
+  outline-width: 16px;
+  outline-offset: -15px;
+  margin-right: 2%;
+}
+
+#🐱‍👤 {
+  margin-right: 3%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  width: 50%;
+}
+
+#🎶 {
+  margin-left: 3%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  width: 50%;
+}

@@ -1,0 +1,41 @@
+.🌌 {
+  outline-color: #0e0733;
+  animation: Holoborder 5s;
+}
+
+@keyframes Holoborder {
+  0% {
+    height: 0;
+    opacity: 0;
+  }
+}
+
+.♿ {
+  animation: Bootup 10s;
+}
+
+@keyframes Bootup {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+.✨ {
+  animation: flow 10s;
+}
+
+@keyframes flow {
+  0% {
+    opacity: 0%;
+  }
+  60% {
+    opacity: 0%;
+  }
+}
